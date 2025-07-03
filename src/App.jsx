@@ -23,8 +23,8 @@ function App() {
       </nav>
 
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/explore3d" element={<Explore3D />} />
+        <Route path="/explore3d" element={<Home />} />
+        <Route path="/" element={<Explore3D />} />
         <Route path="/explore2d" element={<Explore2D />} />
       </Routes>
     </Router>
