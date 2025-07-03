@@ -6,6 +6,9 @@ import Explore2D from './pages/Explore2D'
 function App() {
   return (
     <Router>
+
+
+
     
       <nav className='z-1 absolute bottom-[10px] right-[10px]'>
         <div className='flex'>
